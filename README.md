@@ -1,4 +1,5 @@
-Olá, Sou José Augusto e estou em busca da primeira experiência!
+Olá, Sou José Augusto e estou em busca de um estágio
+
 
 <!---
 38061027/38061027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
