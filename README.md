@@ -1,5 +1,4 @@
-Olá, Sou José Augusto e estou em busca de um estágio
-
+Almejo a oportunidade de atuar como Desenvolvedor Front-End e, por meio deste cargo, assumir novos desafios.
 
 <!---
 38061027/38061027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
