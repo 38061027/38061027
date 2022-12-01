@@ -1,4 +1,4 @@
-### Olá meu sou o José Augusto ✨
+### Olá! Meu nome é josé Augusto ✨
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-augusto-36a38b22b/)
 
