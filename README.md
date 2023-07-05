@@ -2,7 +2,7 @@
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-augusto-36a38b22b/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![38061027 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight-purple_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=38061027&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
